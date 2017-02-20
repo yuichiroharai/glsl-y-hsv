@@ -1,0 +1,28 @@
+{
+  "name": "glsl-y-hsv",
+  "version": "1.0.0",
+  "description": "The conversions between RGB and HSV for glslify.",
+  "main": "hsv2rgb.glsl",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://yuichiroharai@github.com/yuichiroharai/glsl-y-hsv.git"
+  },
+  "keywords": [
+    "glsl",
+    "glslify",
+    "shader",
+    "webgl",
+    "color",
+    "hsv"
+  ],
+  "author": {
+    "name": "Yuichiroh Arai",
+    "url": "http://www.yuichiroharai.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuichiroharai/glsl-y-hsv/issues"
+  },
+  "homepage": "https://github.com/yuichiroharai/glsl-y-hsv#readme"
+}
